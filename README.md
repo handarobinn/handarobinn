@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @handarobinn
+- 👋 Hi, I’m Eng.Handa Robinson
 - 👀 I’m interested in Buiding Quality Web and Mobile Applications.
-- 🌱 I’m currently learning swiftUI
-- 💞️ I’m looking to collaborate on Web, IOS and Android Apps: PHP(Laravel), Python(Django),Kotlin/Java React Native, Flutter and Swift UI
+- 🌱 I’m currently learnin swiftUI
+- 💞️ I’m looking to collaborate on Web, IOS and Android Apps: Java(Spring Boot), PHP(Laravel), Python(Django),Kotlin/Java React Native, Flutter and Swift UI
 - 📫 How to reach me at: Email: handarobinn@gmail.com, Website: www.irob.co.ke or Phone:+254717500384
 
 <!---
