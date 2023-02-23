@@ -7,7 +7,7 @@ the db though.
 I am proficient at Python too, since I use it for writing scripts to
 automate things.
 
-- 📫 How to reach me at: Email: handarobinn@gmail.com, Website: www.irob.co.ke or Phone:+254717500384
+- 📫 How to reach me at: Email: handarobinn@gmail.com, Website: www.irobtechnologies.com or Phone:+254717500384
 
 <!---
 handarobinn/handarobinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
